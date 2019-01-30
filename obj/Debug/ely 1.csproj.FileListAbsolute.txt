@@ -1,0 +1,7 @@
+c:\users\hackeru\source\repos\ely 1\ely 1\bin\Debug\ely 1.exe.config
+c:\users\hackeru\source\repos\ely 1\ely 1\bin\Debug\ely 1.exe
+c:\users\hackeru\source\repos\ely 1\ely 1\bin\Debug\ely 1.pdb
+c:\users\hackeru\source\repos\ely 1\ely 1\obj\Debug\ely 1.csproj.CoreCompileInputs.cache
+c:\users\hackeru\source\repos\ely 1\ely 1\obj\Debug\ely 1.exe
+c:\users\hackeru\source\repos\ely 1\ely 1\obj\Debug\ely 1.pdb
+c:\users\hackeru\source\repos\ely 1\ely 1\obj\Debug\ely 1.csprojResolveAssemblyReference.cache
